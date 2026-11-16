@@ -1,4 +1,19 @@
-# Project Report: Early Warning System for Water-borne Disease Outbreaks
+# PROJECT REPORT
+# Early Warning System for Water-borne Disease Outbreaks
+
+**Course:** Machine Learning / Data Science Project  
+**Team Members:** [Add names here]  
+**Date:** November 2026  
+**GitHub:** https://github.com/Kaustube/outbreak-ews  
+**Live Demo:** [Add Streamlit/Vercel URL here]
+
+---
+
+# EXECUTIVE SUMMARY
+
+This project develops a machine learning-based early warning system to predict water-borne disease outbreaks (cholera, diarrhea, gastroenteritis) in India 2-4 weeks in advance. Using 304,090 district-week observations from 2009-2022, our Logistic Regression model achieves 55.6% recall and 0.724 ROC-AUC, enabling proactive public health interventions. The system is deployed as an interactive web dashboard for operational use by health departments.
+
+---
 
 ## 1. Introduction
 
