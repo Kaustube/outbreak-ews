@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Early Warning System for Water-borne Disease Outbreaks
 
 ## Project Overview
@@ -172,3 +173,6 @@ For questions about the model or data pipeline, refer to inline code documentati
 
 ---
 **Last Updated**: Ready for submission - all models trained, dashboard functional, results validated.
+=======
+# outbreak-ews
+>>>>>>> 7dd5f1399ce300bfef366d7b230e96b58b3f7662
