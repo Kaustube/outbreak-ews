@@ -1,10 +1,36 @@
 # Early Warning System for Water-borne Disease Outbreaks in India
 ### A Machine Learning Approach Using Rainfall and Epidemiological Data
 
-**Team Members:** [Add Names]  
+**Team Members:** Kaustubh, Aryan, Raghav
 **Date:** November 2026  
 **GitHub:** https://github.com/Kaustube/outbreak-ews  
 **Live Demo:** [Add Streamlit URL]
+
+---
+
+## Individual Contributions
+
+**Kaustubh** *(Lead)*
+- Designed and built the complete end-to-end ML pipeline
+- Implemented feature engineering (13 features: rainfall lags, anomalies, seasonal encoding, outbreak history)
+- Trained and tuned the Logistic Regression model with class balancing
+- Built the Streamlit interactive dashboard (all 5 tabs including the risk map)
+- Set up GitHub repository, data pipeline, and cloud deployment
+- Wrote the full project report and documentation
+
+**Aryan**
+- Collected and preprocessed the EpiClim dataset from Zenodo
+- Implemented the PDF ingestion pipeline (`ingest.py`) using pdfplumber
+- Assisted with data cleaning and district name standardisation using fuzzy matching
+- Contributed to evaluation analysis and confusion matrix interpretation
+- Helped prepare the presentation slides and demo walkthrough
+
+**Raghav**
+- Sourced and processed IMD rainfall gridded data using imdlib
+- Implemented the seasonal baseline model
+- Assisted with results analysis and performance benchmarking
+- Contributed to the Related Work and References sections of the report
+- Helped with testing the dashboard and validating model outputs
 
 ---
 
