@@ -1,0 +1,37 @@
+id,state,district,disease,cases,deaths,date_of_start,date_of_reporting,source_file
+AN/NMA/2025/17/700,Andaman & Nicobar Islands,North And Middle Andaman,Acute Diarrheal Disease,71,0,23-04-2025,23-04-2025,idsp_2025_week17.pdf
+AP/KAK/2025/17/701,Andhra Pradesh,Kakinada,Acute Diarrheal Disease,47,0,23-04-2025,24-04-2025,idsp_2025_week17.pdf
+AS/DAR/2025/17/702,Assam,Darrang,Chickenpox,6,0,18-04-2025,22-04-2025,idsp_2025_week17.pdf
+AS/KOK/2025/17/704,Assam,Kokrajhar,Malaria,30,2,23-04-2025,24-04-2025,idsp_2025_week17.pdf
+AS/LAK/2025/17/705,Assam,Lakhimpur,Hepatitis A,14,1,22-04-2025,22-04-2025,idsp_2025_week17.pdf
+CT/BEM/2025/17/706,Chhattisgarh,Bemetara,Acute Diarrheal Disease,67,0,23-04-2025,24-04-2025,idsp_2025_week17.pdf
+CT/BIL/2025/17/707,Chhattisgarh,Bilaspur,Food Poisoning,71,0,24-04-2025,25-04-2025,idsp_2025_week17.pdf
+GJ/ARA/2025/17/708,Gujarat,Arvalli,Suspected Food poisoning,9,0,24-04-2025,24-04-2025,idsp_2025_week17.pdf
+HR/YMN/2025/17/709,Haryana,Yamunanagar,Hepatitis A,40,0,21-04-2025,21-04-2025,idsp_2025_week17.pdf
+JH/BOK/2025/17/710,Jharkhand,Bokaro,Acute Diarrheal Disease,19,0,24-04-2025,24-04-2025,idsp_2025_week17.pdf
+JH/DUM/2025/17/711,Jharkhand,Dumka,Chickenpox,9,0,22-04-2025,23-04-2025,idsp_2025_week17.pdf
+JH/GOD/2025/17/712,Jharkhand,Godda,Chickenpox,6,0,24-04-2025,25-04-2025,idsp_2025_week17.pdf
+JH/GUM/2025/17/713,Jharkhand,Gumla,Chickenpox,7,0,23-04-2025,24-04-2025,idsp_2025_week17.pdf
+JH/KOD/2025/17/714,Jharkhand,Koderma,Chickenpox,6,0,25-04-2025,25-04-2025,idsp_2025_week17.pdf
+JH/KOD/2025/17/715,Jharkhand,Lohardaga,Fever with Rash,15,0,21-04-2025,22-04-2025,idsp_2025_week17.pdf
+KT/CHI/2025/17/716,Karnataka,Chitradurga,Suspected Food Poisoning,94,0,24-04-2025,24-04-2025,idsp_2025_week17.pdf
+KT/CHI/2025/17/717,Karnataka,Kalaburagi,Suspected Food Poisoning,17,0,21-04-2025,21-04-2025,idsp_2025_week17.pdf
+KT/CHI/2025/17/718,Karnataka,Shivamogga,Suspected Food Poisoning,31,0,21-04-2025,21-04-2025,idsp_2025_week17.pdf
+KT/CHI/2025/17/719,Kerala,Ernakulam,Hepatitis A,14,0,17-04-2025,22-04-2025,idsp_2025_week17.pdf
+KT/CHI/2025/17/720,Kerala,Idukki,Hepatitis A,15,0,21-04-2025,22-04-2025,idsp_2025_week17.pdf
+KT/CHI/2025/17/721,Kerala,Kollam,Mpox,1,0,24-04-2025,26-04-2025,idsp_2025_week17.pdf
+KT/CHI/2025/17/722,Kerala,Kottayam,Acute Diarrheal Disease,13,0,19-04-2025,21-04-2025,idsp_2025_week17.pdf
+MH/BHA/2025/17/723,Maharashtra,Bhandara,Food Poisoning,28,0,21-04-2025,21-04-2025,idsp_2025_week17.pdf
+MG/RIBI/2025/17/724,Meghalaya,Ri Bhoi,Human Rabies,1,1,21-04-2025,24-04-2025,idsp_2025_week17.pdf
+OR/ANU/2025/17/725,Odisha,Anugul,Acute Diarrheal Disease,19,0,21-04-2025,21-04-2025,idsp_2025_week17.pdf
+OR/BAL/2025/17/726,Odisha,Balangir,Acute Diarrheal Disease,22,0,20-04-2025,23-04-2025,idsp_2025_week17.pdf
+OR/BOU/2025/17/727,Odisha,Boudh,Acute Diarrheal Disease,14,0,25-04-2025,25-04-2025,idsp_2025_week17.pdf
+OR/KAN/2025/17/728,Odisha,Kandhamal,Food Poisoning,36,0,22-04-2025,23-04-2025,idsp_2025_week17.pdf
+OR/SON/2025/17/729,Odisha,Sonepur,Acute Diarrheal Disease,16,0,21-04-2025,22-04-2025,idsp_2025_week17.pdf
+RJ/DHO/2025/17/730,Rajasthan,Dholpur,Acute Diarrheal Disease,57,0,19-04-2025,21-04-2025,idsp_2025_week17.pdf
+TN/TRI/2025/17/731,Tamil Nadu,Tiruchirappalli,Acute Gastroenteritis,16,0,23-01-2025,23-04-2025,idsp_2025_week17.pdf
+TN/TRI/2025/17/732,Tamil Nadu,Tiruchirappalli,Acute Diarrheal Disease,42,0,20-04-2025,21-04-2025,idsp_2025_week17.pdf
+UP/BAS/2025/17/733,Uttar Pradesh,Basti,Food Poisoning,20,1,14-04-2025,23-04-2025,idsp_2025_week17.pdf
+WB/ALI/2025/17/734,West Bengal,Alipurduar,Acute Diarrheal Disease,67,0,21-04-2025,21-04-2025,idsp_2025_week17.pdf
+UP/BAS/2025/17/735,Kerala,Malappuram,Food Poisoning,39,0,11-04-2025,,idsp_2025_week17.pdf
+KL/MAL/2025/17/736,Uttar Pradesh,Basti,Food Poisoning,20,1,14-04-2025,,idsp_2025_week17.pdf
