@@ -1,8 +1,9 @@
-pandas>=2.1
-numpy>=1.26
-scikit-learn>=1.4
-streamlit>=1.50
-plotly>=5.24
-pdfplumber>=0.11
-imdlib>=0.1.20
-xarray>=2023.1
+pandas==2.1.4
+numpy==1.26.4
+scikit-learn==1.4.2
+streamlit==1.32.0
+plotly==5.20.0
+pdfplumber==0.11.0
+watchdog==4.0.0
+click==8.1.7
+altair==5.2.0
