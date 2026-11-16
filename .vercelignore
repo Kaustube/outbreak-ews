@@ -1,6 +1,0 @@
-data/imd/
-__pycache__/
-*.pyc
-.git/
-test_project.py
-.gitignore
